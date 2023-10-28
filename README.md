@@ -9,9 +9,9 @@ Optimistic Air : "User-friendly site offering AV tests for depression, providing
 - [Installation](#installation)
 - [Dependencies](#dependencies)
 - [Important Note](#Important_Note)
-  ![Alt text]("https://drive.google.com/file/d/1KsWmxNYxuOjM-53f-JHSouklAL0RH53f/view?usp=sharing")
+  ![Alt text](https://drive.google.com/file/d/1KsWmxNYxuOjM-53f-JHSouklAL0RH53f/view?usp=sharing)
 
-<img src="" alt="Alt text" title="Optional title">
+<!-- <img src="" alt="Alt text" title="Optional title"> -->
 
 ## Description
 
@@ -26,6 +26,10 @@ The generated score not only reflects an individual's depression level but also 
 Our future scope includes achieving more accurate results through the utilization of AI technologies for video and audio processing and comparing previous results of the user and showing improvement of the user .
 
 Our business model is the Pro Membership. With this subscription, users will gain access to a valuable feature: the ability to view their previous results in intricate detail and compare their progress over time.
+
+![Alt text](https://drive.google.com/file/d/1efZoBVMe2ZAQ7G5rZwrKuvcx73AakjNp/view?usp=sharing)
+![Alt text](https://drive.google.com/file/d/18lgokiB9LpIPhCOOiIw3ct7CGII_eCc7/view?usp=sharing)
+![Alt text](https://drive.google.com/file/d/1q3sgmcNaSQ0Z-6s-SYVIWj23Nlt-MbjL/view?usp=sharing)
 
 ## Features
 
