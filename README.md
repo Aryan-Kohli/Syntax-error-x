@@ -2,6 +2,7 @@
 
 Optimistic Air : "User-friendly site offering AV tests for depression, providing personalized suggestions based on your level."
 
+![wdbw](./client/src/pics/ss1.jpg)
 ## Table of Contents
 
 - [Description](#description)
@@ -14,7 +15,6 @@ Optimistic Air : "User-friendly site offering AV tests for depression, providing
 
 ## Description
 
-![wdbw](./client/src/pics/ss1.jpg)
 
 We are currently addressing the issue of depression, a mental health disorder characterized by persistent feelings of sadness or disinterest in activities over extended periods. To assist individuals dealing with depression, we've developed a comprehensive model.
 
