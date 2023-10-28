@@ -9,9 +9,9 @@ Optimistic Air : "User-friendly site offering AV tests for depression, providing
 - [Installation](#installation)
 - [Dependencies](#dependencies)
 - [Important Note](#Important_Note)
-  ![Alt text](https://drive.google.com/file/d/1KsWmxNYxuOjM-53f-JHSouklAL0RH53f/view?usp=sharing)
+  <!-- ![Alt text](https://drive.google.com/file/d/1KsWmxNYxuOjM-53f-JHSouklAL0RH53f/view?usp=sharing) -->
 
-<!-- <img src="" alt="Alt text" title="Optional title"> -->
+<img src="https://drive.google.com/file/d/1KsWmxNYxuOjM-53f-JHSouklAL0RH53f/view?usp=sharing" alt="Alt text" title="Optional title" />
 
 ## Description
 
